@@ -12,6 +12,6 @@
 
 ## Languages and Tools:
 <img 
-   src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasunherath10&show_icons=true&theme=tokyonight&layout=compact" 
+   src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasunherath10&show_icons=true&theme=codeSTACKr&layout=compact" 
 />
 
