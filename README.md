@@ -1,4 +1,4 @@
-<h1 align="center"> HELLO WORLD! </h1>
+<h1 align="center"> HI EVERYONE! </h1>
 
 ## My GitHub Stats:
 <img 
