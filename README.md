@@ -1,7 +1,7 @@
 
 ## My GitHub Stats:
 <img 
-   src="https://github-readme-stats.vercel.app/api?username=dasunherath10&show_icons=true&theme=react" 
+   src="https://github-readme-stats.vercel.app/api?username=dasunherath10&show_icons=true&bg_color=DEG,COLOR1,COLOR2,COLOR3,COLOR10" 
 />
 
 
