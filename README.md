@@ -1,6 +1,6 @@
 <h1 align="center"> HI <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dasun </h1>
 
-- 👋 Hi, I’m @dasunherath10
+- 👋 Hi, I’m Dasun Herath
 - 👀 I’m interested in new technologies ...
 - 📫 How to reach me : herath.dasun00@gmail.com ...
 
