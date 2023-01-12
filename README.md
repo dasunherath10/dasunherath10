@@ -7,11 +7,11 @@
 
 ## My GitHub Stats:
 <img 
-   src="https://github-readme-stats.vercel.app/api?username=dasunherath10&show_icons=true&theme=react&hide_border=true" 
+   src="https://github-readme-stats.vercel.app/api?username=dasunherath10&show_icons=true&theme=react" 
 />
 
 ## Languages and Tools:
 <img 
-   src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasunherath10&show_icons=true&theme=react&hide_border=true&layout=compact" 
+   src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasunherath10&show_icons=true&theme=react&layout=compact" 
 />
 
