@@ -4,7 +4,7 @@
 - 👀 I’m interested in new technologies ...
 - 📫 How to reach me : herath.dasun00@gmail.com ...
 
-
+<!--
 ## My GitHub Stats:
 <img 
    src="https://github-readme-stats.vercel.app/api?username=dasunherath10&show_icons=true&theme=react" 
@@ -14,4 +14,5 @@
 <img 
    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dasunherath10&show_icons=true&theme=react&layout=compact" 
 />
+--->
 
